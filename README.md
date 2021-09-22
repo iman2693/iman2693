@@ -3,7 +3,7 @@
   <img align="left" alt="Iman's Linkedin" width="22px" src="https://raw.githubusercontent.com/iman2693/iman2693/1a2b889762ccd651b71030e9cd71729369803fc7/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=codewithemad)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=iman2693)
 <br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/iman2693/iman2693/main/code.gif" width="400" height="256" />
 
