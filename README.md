@@ -1,7 +1,24 @@
 ### Hi there 👋
-<a href="https://www.linkedin.com/in/emadehsanrad/">
-  <img align="left" alt="Emad's Linkedin" width="22px" src="https://raw.githubusercontent.com/iman2693/iman2693/1a2b889762ccd651b71030e9cd71729369803fc7/linkedin.svg" />
+<a href="https://www.linkedin.com/in/imankianian/">
+  <img align="left" alt="Iman's Linkedin" width="22px" src="https://raw.githubusercontent.com/iman2693/iman2693/1a2b889762ccd651b71030e9cd71729369803fc7/linkedin.svg" />
 </a>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif" width="400" height="256" />
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Emad Rad"
+        self.role = "Software Engineer"
+
+
+me = SoftwareEngineer()
+```
+
 📫 How to reach me: By my email: imankianian4@gmail.com
 
 
