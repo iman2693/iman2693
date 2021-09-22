@@ -8,17 +8,16 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/iman2693/iman2693/main/code.gif" width="400" height="256" />
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
-
-class SoftwareEngineer:
+class ComputerScientist:
     def __init__(self):
-        self.name = "Emad Rad"
-        self.role = "Software Engineer"
+        self.name = "Iman Kianian"
+        self.role = "Computer Scientist"
+    def __str__(self):
+        print(f"Hey Guys. I'm {self.name} and a {self.role}")
 
-
-me = SoftwareEngineer()
+Me = ComputerScientist()
+print(Me)
 ```
 
 📫 How to reach me: By my email: imankianian4@gmail.com
