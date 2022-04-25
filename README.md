@@ -10,14 +10,14 @@
 ```python
 
 class ComputerScientist:
-    def __init__(self):
-        self.name = "Iman Kianian"
-        self.role = "Computer Scientist"
+    def __init__(self,name,role):
+        self.name = name
+        self.role = role
     def __str__(self):
         print(f"Hey Guys. I'm\
         {self.name} and a {self.role}")
 
-Me = ComputerScientist()
+Me = ComputerScientist("Iman Kianian", "Computer Scientist")
 print(Me)
 ```
 <br>
