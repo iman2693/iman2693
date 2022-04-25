@@ -17,7 +17,8 @@ class ComputerScientist:
         print(f"Hey Guys. I'm\
         {self.name} and a {self.role}")
 
-Me = ComputerScientist("Iman Kianian", "Computer Scientist")
+Me = ComputerScientist("Iman Kianian"\
+    , "Computer Scientist")
 print(Me)
 ```
 <br>
