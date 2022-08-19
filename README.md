@@ -14,8 +14,7 @@ class ComputerScientist:
         self.name = name
         self.role = role
     def __str__(self):
-        print(f"Hey Guys. I'm\
-        {self.name} and a {self.role}")
+        return f"Hey Guys. I'm {self.name} and a {self.role}"
 
 Me = ComputerScientist("Iman Kianian"\
     , "Computer Scientist")
